@@ -1,4 +1,1 @@
-const destroyer = (arr, ...arg) => {
-  let newArr = arr.filter((elmt) => !arg.includes(elmt));
-  return newArr;
-}
+<strong>JavaScript Higher Order Functions and Callbacks</strong> - freecodecamp-exercices-JS-0051-Implement-a-Value-Remover-Function
